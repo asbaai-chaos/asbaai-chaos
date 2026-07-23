@@ -112,8 +112,8 @@ This GitHub account will document that journey through projects, experiments, te
 ## Connect With Me
 
 * Portfolio: Coming soon
-* LinkedIn: Add your LinkedIn URL
-* Email: Add your professional email
+* LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/abdessadek-sbaai/)
+* Email: abdessadeksbaai@gmail.com
 
 ---
 
