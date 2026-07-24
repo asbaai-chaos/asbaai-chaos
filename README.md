@@ -1,3 +1,4 @@
+<img src="https://github.com/AbdessadekDev/AbdessadekDev/blob/main/assets/images/github-background-profile.gif" alt="bismillah" style="width: 100%;" />
 # Hi, I'm Abdessadek 👋
 
 ### Turning chaos into systems.
